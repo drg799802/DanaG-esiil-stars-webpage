@@ -8,4 +8,4 @@
 
 ## Email: danag@olc.edu
 ## https://www.linkedin.com/in/dana-gehring/
-## [facebook](https://www.facebook.com/dana.gehring)%20<a href="https://www.facebook.com/dana.gehring">link</a>
+## [facebook](https://www.facebook.com/dana.gehring)<a href="https://www.facebook.com/dana.gehring">%20 link</a>
