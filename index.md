@@ -8,7 +8,8 @@
 
 ## <ul>
   <li>Email: danag@olc.edu</li>
-  <li>[Dana's LinkedIn](https://www.linkedin.com/in/dana-gehring/)<a href="https://www.linkedin.com/in/dana-gehring/"></a></li>
+  <li>socials</li>
+    [](https://www.linkedin.com/in/dana-gehring/)<a href="https://www.linkedin.com/in/dana-gehring/">Dana's LinkedIn</a></li>
   <li>[Dana's Facebook](https://www.facebook.com/dana.gehring)<a href="https://www.facebook.com/dana.gehring"></a></li>
   </ul>
   
