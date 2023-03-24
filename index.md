@@ -8,9 +8,9 @@
 
 #### - Email: danag@olc.edu
 #### - Socials:
-#####    -[Dana's LinkedIn](https://www.linkedin.com/in/dana-gehring/)
-#####    -[Dana's Facebook](https://www.facebook.com/dana.gehring)
-#####    -[Dana's Github](https://github.com/drg799802)
+#####    *[Dana's LinkedIn](https://www.linkedin.com/in/dana-gehring/)
+#####    *[Dana's Facebook](https://www.facebook.com/dana.gehring)
+#####    *[Dana's Github](https://github.com/drg799802)
   
 #### Chair of Math, Science, and Technology
 #### Oglala Lakota College
