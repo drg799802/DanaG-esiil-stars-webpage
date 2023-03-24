@@ -8,8 +8,9 @@
 
 ## <ul>
 ##  <li>Email: danag@olc.edu</li>
-##  <li>socials</li>
+##  <li>Socials:</li>
 ##    <ul><li>[Dana's LinkedIn](https://www.linkedin.com/in/dana-gehring/)<a href="https://www.linkedin.com/in/dana-gehring/"></a></li></ul>
 ##    <ul><li>[Dana's Facebook](https://www.facebook.com/dana.gehring)<a href="https://www.facebook.com/dana.gehring"></a></li></ul>
+##    <ul><li>[Dana's Github](https://github.com/drg799802)<a href="https://github.com/drg799802"></a></li></ul>  
   </ul>
   
