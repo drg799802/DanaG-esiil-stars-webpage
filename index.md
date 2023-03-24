@@ -5,6 +5,7 @@
 
 ## <ul>
 ##  <h4><li>Email: danag@olc.edu</li></h4>
+    
 ##  <h4><li>Socials:</li></h4>
     <h4><ul><li>[Dana's LinkedIn](https://www.linkedin.com/in/dana-gehring/)<a href="https://www.linkedin.com/in/dana-gehring/"></a></li></ul></h4>
 ##  <h4><ul><li>[Dana's Facebook](https://www.facebook.com/dana.gehring)<a href="https://www.facebook.com/dana.gehring"></a></li></ul></h4>
