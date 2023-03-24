@@ -3,9 +3,6 @@
 
 ![278873986_10102151513581744_5153733221137103504_n](https://user-images.githubusercontent.com/78752548/227621682-dd7aa54b-4e14-4746-ac09-a13cff9464c6.jpg)
 
-## Chair of Math, Science, and Technology
-## Oglala Lakota College
-
 ## <ul>
 ##  <li>Email: danag@olc.edu</li>
 ##  <li>Socials:</li>
@@ -14,3 +11,6 @@
 ##    <ul><li>[Dana's Github](https://github.com/drg799802)<a href="https://github.com/drg799802"></a></li></ul>  
   </ul>
   
+## Chair of Math, Science, and Technology
+## Oglala Lakota College
+
