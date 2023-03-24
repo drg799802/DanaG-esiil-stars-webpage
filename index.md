@@ -7,5 +7,5 @@
 ## Oglala Lakota College
 
 ## Email: danag@olc.edu
-## https://www.linkedin.com/in/dana-gehring/
+## [Dana's LinkedIn](https://www.linkedin.com/in/dana-gehring/)<a href="https://www.linkedin.com/in/dana-gehring/"></a>
 ## [Dana's facebook](https://www.facebook.com/dana.gehring)<a href="https://www.facebook.com/dana.gehring"></a>
