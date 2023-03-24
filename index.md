@@ -14,3 +14,7 @@
 ## Chair of Math, Science, and Technology
 ## Oglala Lakota College
 
+## Biographical
+
+## Opportunity:
+## <ul>I am excited to participate in ESIIL stars to learn more about data science and how to use it in my classroom</ul>
