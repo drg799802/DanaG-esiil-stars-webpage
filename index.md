@@ -16,7 +16,7 @@
 ## <h4>Oglala Lakota College</h4>
 
 ## <h4>Biographical:</h4>
-## <h5><ul>I am a biologist by training but have a love for environmental science and incorporating traditional knowledges into my classroom space.  I have 5 dachshunds: Dax, Tux, Merci, Journey, and Otto.</ul></h5>
+## <h5><ul>I am a biologist by training but have a love for environmental science and incorporating traditional knowledges into my classroom space.  I have 5 dachshunds: Dax, Tux, Merci, Journey, and Otto. I enjoy doing fun activities with my dogs.</ul></h5>
 
 ## <h4>Opportunity:</h4>
 ## <h5><ul>I am excited to participate in ESIIL stars to learn more about data science and how to use it in my classroom</ul></h5>
