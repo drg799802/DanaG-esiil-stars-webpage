@@ -9,9 +9,9 @@
 ## <ul>
   <li>Email: danag@olc.edu</li>
   <li>socials</li>
-    <li>[Dana's LinkedIn](https://www.linkedin.com/in/dana-gehring/)<a href="https://www.linkedin.com/in/dana-gehring/"></a></li>
+    <ul><li>[Dana's LinkedIn](https://www.linkedin.com/in/dana-gehring/)<a href="https://www.linkedin.com/in/dana-gehring/"></a></li>
     <li>[Dana's Facebook](https://www.facebook.com/dana.gehring)<a href="https://www.facebook.com/dana.gehring"></a></li>
-  </ul>
+  </ul></ul>
   
 ## Email: danag@olc.edu
 ## [Dana's LinkedIn](https://www.linkedin.com/in/dana-gehring/)<a href="https://www.linkedin.com/in/dana-gehring/"></a>
