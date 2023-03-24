@@ -1,6 +1,5 @@
 
 #  Dana Gehring's ESIIL Site</h1>
-
 <figure>
   <img alt-text="Dana Gehring" src="https://user-images.githubusercontent.com/78752548/227621682-dd7aa54b-4e14-4746-ac09-a13cff9464c6.jpg" width="25%" />
   <figcaption>GCH DC GRD V Moonlight's Sharp Dressed Man MW DCAT</figcaption>
@@ -19,5 +18,4 @@
 
 #### Opportunity:
 #####    I am excited to participate in ESIIL stars to learn more about data science and how to use it in my classroom
-  
   
