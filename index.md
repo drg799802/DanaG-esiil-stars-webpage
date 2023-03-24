@@ -7,15 +7,15 @@
 
 #### - Email: danag@olc.edu
 #### - Socials:
-#####       *[Dana's LinkedIn](https://www.linkedin.com/in/dana-gehring/)
-#####       *[Dana's Facebook](https://www.facebook.com/dana.gehring)
-#####       *[Dana's Github](https://github.com/drg799802)
+#####       * [Dana's LinkedIn](https://www.linkedin.com/in/dana-gehring/)
+#####       * [Dana's Facebook](https://www.facebook.com/dana.gehring)
+#####       * [Dana's Github](https://github.com/drg799802)
   
 #### Chair of Math, Science, and Technology, Oglala Lakota College
 
 #### Education:
-#####   -Bachelors in Biology, University of Jamestown
-#####   -Masters in Biology, University of South Dakota
+#####   - Bachelors in Biology, University of Jamestown
+#####   - Masters in Biology, University of South Dakota
 
 #### Biographical:
 #####    I am a biologist by training but have a love for environmental science and incorporating traditional knowledges into my classroom space.  I have 5 dachshunds: Dax, Tux, Merci, Journey, and Otto. I enjoy doing fun activities with my dogs.
